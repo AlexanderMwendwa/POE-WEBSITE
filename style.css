@@ -396,6 +396,9 @@ span{
     text-align: center;
     margin: 52vw;
   }
+  .about-img img{
+    width: 56vw;
+  }
   .contact form{
     flex-direction: column;
   }
